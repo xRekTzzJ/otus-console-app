@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "otus-console-app/1.0.0": {
+        "runtime": {
+          "otus-console-app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "otus-console-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

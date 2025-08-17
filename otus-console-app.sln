@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otus-console-app", "otus-console-app\otus-console-app.csproj", "{67290A31-7638-4E68-9AC0-F951F7BCA115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67290A31-7638-4E68-9AC0-F951F7BCA115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67290A31-7638-4E68-9AC0-F951F7BCA115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67290A31-7638-4E68-9AC0-F951F7BCA115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67290A31-7638-4E68-9AC0-F951F7BCA115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

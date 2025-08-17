@@ -1,0 +1,14 @@
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\bin\Debug\net9.0\otus-console-app.exe
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\bin\Debug\net9.0\otus-console-app.deps.json
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\bin\Debug\net9.0\otus-console-app.runtimeconfig.json
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\bin\Debug\net9.0\otus-console-app.dll
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\bin\Debug\net9.0\otus-console-app.pdb
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.AssemblyInfoInputs.cache
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.AssemblyInfo.cs
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.csproj.CoreCompileInputs.cache
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.dll
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\refint\otus-console-app.dll
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.pdb
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\otus-console-app.genruntimeconfig.cache
+C:\Users\xRekTzzJ\Documents\otus-console-app\otus-console-app\obj\Debug\net9.0\ref\otus-console-app.dll
